@@ -1,4 +1,6 @@
 # hello-world
-Transitions / Growth
+Transitions / Growth.
+cout << endl;
 This is an attempt to make progress.
+cout << endl;
 Trust the process. 
